@@ -1,1 +1,19 @@
+Data Exploration and Correlation Analysis
+
+The California Housing dataset was used to explore relationships
+between different housing-related features.
+
+Several numerical features were examined, including median income, house age,
+average number of rooms, population, and median house value.
+
+The correlation scatter plot focused on the relationship between median income
+(MedInc) and median house value (MedHouseVal).
+
+The plot shows a strong positive correlation between median income and house value.
+As the median income of an area increases, the median house value also tends to
+increase.
+
+This relationship is expected, as areas with higher income levels generally have
+more expensive housing. The regression line in the scatter plot further highlights
+this positive linear trend.
 
